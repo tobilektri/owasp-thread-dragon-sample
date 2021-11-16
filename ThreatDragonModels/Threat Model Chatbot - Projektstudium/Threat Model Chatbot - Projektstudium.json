@@ -9,7 +9,7 @@
     "diagrams": [
       {
         "title": "Chatbot - Sprint 3",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/481px-Cat03.jpg",
         "diagramType": "STRIDE",
         "id": 0,
         "diagramJson": {
