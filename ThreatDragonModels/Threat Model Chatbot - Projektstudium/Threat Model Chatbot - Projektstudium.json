@@ -1952,7 +1952,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Browser (ohne Login)"
+                  "text": "Browser, Chatfenster\n(ohne Login)"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -1989,7 +1989,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Browser (mit Login)"
+                  "text": "Browser, Admin\nDashboard (mit Login)"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -2003,8 +2003,8 @@
                 "height": 100
               },
               "position": {
-                "x": 416,
-                "y": 170
+                "x": 431,
+                "y": 171
               },
               "angle": 0,
               "id": "84393be8-6d10-41dd-b66c-6fd327194ed8",
@@ -2195,7 +2195,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "externer Authe\nntifizierungsdie\nnst"
+                  "text": "externer Authe\nntifizierungsdie\nnst, GitLab"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -2204,16 +2204,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "3b3ac550-19fe-449a-9865-fba1074a5402"
               },
               "target": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2254,16 +2254,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
               },
               "target": {
                 "id": "3b3ac550-19fe-449a-9865-fba1074a5402"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2300,16 +2300,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "ffcb4629-ecb6-4ecd-a1d0-c2bc298384a8"
               },
               "target": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2343,16 +2343,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
               },
               "target": {
                 "id": "ffcb4629-ecb6-4ecd-a1d0-c2bc298384a8"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2389,16 +2389,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "da9bc719-082c-40b3-bba4-0aa5e608e88f"
               },
               "target": {
                 "id": "7319ad51-eff3-4414-bee8-c9b43e341872"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2432,16 +2432,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "7319ad51-eff3-4414-bee8-c9b43e341872"
               },
               "target": {
                 "id": "da9bc719-082c-40b3-bba4-0aa5e608e88f"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2475,16 +2475,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "ffcb4629-ecb6-4ecd-a1d0-c2bc298384a8"
               },
               "target": {
                 "id": "c9ca2ffd-6246-4ca3-9d95-4ae2c4482a89"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2521,16 +2521,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "c9ca2ffd-6246-4ca3-9d95-4ae2c4482a89"
               },
               "target": {
                 "id": "ffcb4629-ecb6-4ecd-a1d0-c2bc298384a8"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2564,10 +2564,6 @@
             },
             {
               "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "x": 422,
@@ -2576,6 +2572,10 @@
               "target": {
                 "x": 426,
                 "y": 513
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2608,10 +2608,6 @@
             },
             {
               "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "x": 830,
@@ -2620,6 +2616,10 @@
               "target": {
                 "x": 671,
                 "y": 582
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2645,10 +2645,6 @@
             },
             {
               "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "x": 14,
@@ -2657,6 +2653,10 @@
               "target": {
                 "x": 223,
                 "y": 574
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2674,21 +2674,22 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
               },
               "target": {
-                "id": "c9ca2ffd-6246-4ca3-9d95-4ae2c4482a89"
+                "x": 867,
+                "y": 218
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
-                  "x": 268,
-                  "y": 450
+                  "x": 704,
+                  "y": 218
                 }
               ],
               "id": "8b95d509-ef60-425f-a521-cf50d5c5902f",
@@ -2697,7 +2698,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "?",
+                      "text": "Admin:\nFrage-Antworten\nerstellen, bearbeiten,\nlöschen;\nRollenverwaltung",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2717,16 +2718,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "c9ca2ffd-6246-4ca3-9d95-4ae2c4482a89"
               },
               "target": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2786,16 +2787,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
               },
               "target": {
                 "id": "da9bc719-082c-40b3-bba4-0aa5e608e88f"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [
                 {
@@ -2806,10 +2807,13 @@
               "id": "7621f315-a493-4160-b544-931f70066a5c",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.3938064208437438,
+                    "offset": 4.301898441413379
+                  },
                   "attrs": {
                     "text": {
-                      "text": "Mitarbeiter: add, edit,\ndelete",
+                      "text": "Mitarbeiter:\nFrage-Antworten\nbearbeiten",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2829,16 +2833,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "da9bc719-082c-40b3-bba4-0aa5e608e88f"
               },
               "target": {
                 "id": "6591f386-1ee8-4d21-bdf5-328a9ec1e967"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [],
               "id": "424c9c37-17e2-4b54-9300-0716f3aa8c25",
@@ -2870,16 +2874,16 @@
             },
             {
               "type": "tm.Flow",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
               "smooth": true,
               "source": {
                 "id": "6591f386-1ee8-4d21-bdf5-328a9ec1e967"
               },
               "target": {
                 "id": "84393be8-6d10-41dd-b66c-6fd327194ed8"
+              },
+              "size": {
+                "width": 10,
+                "height": 10
               },
               "vertices": [],
               "id": "ff7bd579-bb51-4c02-b5ab-3d0a0196e2cf",
